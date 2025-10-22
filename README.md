@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mrinal Srinath Setty  
+# 👋 Hi, I'm Mrinal Setty  
 
 🎯 **GenAI Engineer @ Deloitte USI** | **MSCS Candidate @ Northeastern University '27**  
 ⚙️ 3+ years of experience designing and developing **Agentic AI systems**, **multi-agent architectures**, and **full-stack AI applications**.  
