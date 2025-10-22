@@ -65,7 +65,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/mrinalsetty"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://mrinalsetty.com"><img src="https://img.shields.io/badge/Portfolio-mrinalsetty.com-blue?logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="mailto:mrinalsetty2000@gmail.com"><img src="https://img.shields.io/badge/Email-mrinalsetty2000@gmail.com-red?logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/mrinalsetty"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
