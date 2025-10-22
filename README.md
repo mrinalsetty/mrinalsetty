@@ -1,71 +1,75 @@
-# Hi there 👋 I'm Mrinal Srinath Setty  
+# 👋 Hi, I'm Mrinal Srinath Setty  
 
-🚀 **GenAI Engineer @ Deloitte USI** | **MSCS @ Northeastern University ('27)**  
-💡 Passionate about building **Agentic AI Systems**, **Full-Stack Applications**, and **Intelligent Automation Tools** that bridge creativity and computation.  
+🎯 **GenAI Engineer @ Deloitte USI** | **MSCS Candidate @ Northeastern University '27**  
+⚙️ 3+ years of experience designing and developing **Agentic AI systems**, **multi-agent architectures**, and **full-stack AI applications**.  
+💡 Focused on building scalable, production-grade **AI-driven automation** using modern frameworks like **LangGraph**, **LangChain**, and **CrewAI**.  
 
 ---
 
 ### 🧭 About Me  
-- 🎓 Graduate Student in **Computer Science (AI Focus)** at Northeastern University, Boston.  
-- ⚙️ 3+ years of experience engineering **Generative AI** and **multi-agent systems** at **Deloitte’s Agentic AI Global Incubator**.  
-- 🧩 Skilled in integrating **LangGraph**, **LangChain**, and **CrewAI** to build real-world AI workflows and automation.  
-- 🧠 Passionate about exploring how **LLMs, RAG**, and **multi-agent collaboration** can shape the next wave of intelligent systems.  
+- 🧠 Experienced in **Agentic AI, Generative AI, and Intelligent Automation** — building systems that reason, plan, and act.  
+- 💼 Currently advancing Deloitte’s **Agentic AI Global Incubator**, developing R&D-driven multi-agent systems.  
+- 🧩 Strong foundation in **data engineering**, **machine learning**, and **end-to-end full-stack development**.  
+- 🎓 Pursuing **MS in Computer Science (AI Focus)** at **Northeastern University**, Boston.  
+- 🚀 Passionate about **AI product engineering**, **multi-agent collaboration**, and **LLM-powered applications**.  
 
 ---
 
-### 🧩 Projects & Innovations  
+### 🧩 Selected Projects  
 
-🔹 **[SocialCrew AI](#)** — *Autonomous Social Media Team powered by CrewAI*  
-> A social media automation platform where multiple AI Agents collaborate to research trends, create posts, and optimize content in real time.  
-> *Built with Next.js, Node.js API routes, Tailwind CSS, and RAG for contextual grounding.*
+#### 🧠 [Survey Analysis Agent – Deloitte R&D Initiative](#)
+> Full-stack GenAI application built using **LangGraph** and **LangChain**, integrating LLM reasoning, RAG retrieval, and structured orchestration.  
+> *Flask backend · ReactJS frontend · Gemini LLM · Azure ML · Vector Databases.*
 
-🔹 **[Survey Analysis Agent](#)** — *Deloitte R&D Innovation Initiative*  
-> Full-stack GenAI app leveraging **LangGraph** and **LangChain** for intelligent reasoning and contextual retrieval, with **Flask backend** and **ReactJS frontend**.
+#### 🤖 [SocialCrew AI](#)
+> Autonomous social media automation platform powered by **CrewAI**, where AI Agents collaborate to research trends, personalize posts, and analyze performance.  
+> *Next.js · Node.js API Routes · Tailwind CSS · RAG.*
 
-🔹 **[TechNexus](#)** — *Tech Social Network*  
-> A developer social platform built with **Next.js** and **MongoDB**, featuring role-based access control, real-time search, and a responsive UI.
+#### 🌐 [TechNexus](#)
+> Full-stack social network for developers and innovators. Features role-based access control, live search, and dynamic content rendering.  
+> *Next.js · MongoDB · Node.js · Tailwind.*
 
-🔹 **[Sound Share](https://ieeexplore.ieee.org/document/9972172)** — *IEEE-Published Research Project*  
-> Peer-to-peer file sharing using sound frequencies for secure device-to-device communication.  
-> *Published in the 3rd Global Conference for Advancement in Technology (GCAT 2022).*
+#### 🔊 [Sound Share (IEEE Published)](https://ieeexplore.ieee.org/document/9972172)
+> P2P file-sharing system over sound frequencies — published in **IEEE GCAT 2022**.  
+> *C++ · Python · Golang.*
 
 ---
 
-### 🧠 Tech Stack  
+### ⚙️ Technical Expertise  
 
-#### 🧩 AI & Data  
-`Agentic AI` · `AI Agents` · `Generative AI` · `LangGraph` · `LangChain` · `CrewAI` · `RAG` · `LLMs` · `Machine Learning` · `Data Science` · `PySpark` · `Hadoop` · `Azure ML`
+#### 💻 Programming  
+`Python` · `Java` · `C++` · `JavaScript` · `SQL` · `PySpark`
 
-#### 💻 Web & Software  
-`Next.js` · `ReactJS` · `Node.js` · `Flask` · `Tailwind CSS` · `Redux` · `REST API` · `MongoDB` · `SQL` · `Python` · `Java` · `C++`
+#### 🧠 AI & Data  
+`Agentic AI` · `LangGraph` · `LangChain` · `CrewAI` · `LLMs` · `RAG` · `Machine Learning` · `Deep Learning` · `Data Science` · `Data Engineering` · `Azure ML Studio`
+
+#### 🌐 Web & Systems  
+`Next.js` · `ReactJS` · `Node.js` · `Flask` · `REST APIs` · `Tailwind CSS` · `Redux` · `MongoDB`
 
 #### ☁️ Cloud & DevOps  
-`Azure` · `GCP` · `OCI` · `Docker` · `Kubernetes` · `Jenkins` · `Git` · `CI/CD`
+`Azure` · `GCP` · `Docker` · `Kubernetes` · `Jenkins` · `Git` · `CI/CD Pipelines`
 
 ---
 
 ### 🏆 Certifications  
-- **Deloitte AI Certified** by Deloitte AI Academy  
-- **IIT Roorkee Certified:** Artificial Intelligence & Machine Learning  
-- **Oracle Certified:** Generative AI Professional  
-- **Microsoft Certified:** Azure Data Scientist · Azure Data Engineer · AI & Data Fundamentals  
-- **Google Certified:** Digital Cloud Leader  
-
----
-
-### 📊 GitHub Highlights  
-
-![Mrinal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrinalsetty&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinalsetty&layout=compact&theme=radical)  
+- Deloitte AI Certified (Deloitte AI Academy)  
+- Oracle Certified: Generative AI Professional  
+- IIT Roorkee: Artificial Intelligence and Machine Learning  
+- Microsoft Certified: Azure Data Scientist | Data Engineer | AI & Data Fundamentals
+- Microsoft Certified: Azure AI Fundamentals | Data Fundamentals | Azure Fundamentals
+- Google Certified: Digital Cloud Leader
 
 ---
 
 ### 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrinalsetty)  
-[![Portfolio](https://img.shields.io/badge/Website-mrinalsetty.com-blue)](https://mrinalsetty.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/mrinalsetty)  
-[![Email](https://img.shields.io/badge/Email-mrinalsetty2000@gmail.com-red)](mailto:mrinalsetty2000@gmail.com)
+
+<p align="center">
+  <a href="https://linkedin.com/in/mrinalsetty"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://mrinalsetty.com"><img src="https://img.shields.io/badge/Portfolio-mrinalsetty.com-blue?logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="mailto:mrinalsetty2000@gmail.com"><img src="https://img.shields.io/badge/Email-mrinalsetty2000@gmail.com-red?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/mrinalsetty"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
-✨ *“Bridging creativity and code through Agentic AI — one system at a time.”*
+✨ *Exploring the intersection of AI, systems design, and automation — building the future of intelligent software.*
