@@ -1,74 +1,95 @@
-# 👋 Hi, I'm Mrinal Setty  
+# Mrinal Srinath Setty
 
-🎯 **GenAI Engineer @ Deloitte USI** | **MSCS Candidate @ Northeastern University '27**  
-⚙️ 3+ years of experience designing and developing **Agentic AI systems**, **multi-agent architectures**, and **full-stack AI applications**.  
-💡 Focused on building scalable, production-grade **AI-driven automation** using modern frameworks like **LangGraph**, **LangChain**, and **CrewAI**.  
+GenAI Engineer with a total work experience of about 3+ years. Spearheaded the Development of full-stack GenAI applications as part of the Deloitte's Agentic AI Global Incubator. Co-led and contributed to the development of Deloitte's multiple R&D innovation initiatives involving full-stack Generative AI applications powered by multi-agent systems built using the Agentic AI Frameworks. Deeply passionate about AI and constantly exploring opportunities to work on projects and roles that push the boundaries of what intelligent systems can do.
 
 ---
 
-### 🧭 About Me  
-- 🧠 Experienced in **Agentic AI, Generative AI, and Intelligent Automation** — building systems that reason, plan, and act.  
-- 💼 Currently advancing Deloitte’s **Agentic AI Global Incubator**, developing R&D-driven multi-agent systems.  
-- 🧩 Strong foundation in **data engineering**, **machine learning**, and **end-to-end full-stack development**.  
-- 🎓 Pursuing **MS in Computer Science (AI Focus)** at **Northeastern University**, Boston.  
-- 🚀 Passionate about **AI product engineering**, **multi-agent collaboration**, and **LLM-powered applications**.  
+## Education
+
+**Northeastern University, Khoury College of Computer Sciences** — *SEP 2025–PRESENT*  
+Master of Science in Computer Science (Focus: Artificial Intelligence) — *Boston, MA*
+
+**The National Institute of Engineering** — *2018–2022*  
+Bachelor of Engineering in Computer Science and Engineering. CGPA: 8.75/10 (Distinction) — *Mysore, India*
 
 ---
 
-### 🧩 Selected Projects  
+## Work Experience
 
-#### 🧠 [Survey Analysis Agent – Deloitte R&D Initiative](#)
-> Full-stack GenAI application built using **LangGraph** and **LangChain**, integrating LLM reasoning, RAG retrieval, and structured orchestration.  
-> *Flask backend · ReactJS frontend · Gemini LLM · Azure ML · Vector Databases.*
+**Deloitte USI** — *JAN 2023 – AUG 2025*  
+*GenAI Engineer | Agentic AI, AI Agents, GenAI, LangGraph, LangChain, AI/ML, Python, ReactJS, JavaScript, LLM, Azure, Azure ML Studio*
+- Spearheaded the Development of full-stack GenAI applications as part of Deloitte’s Agentic AI Global Incubator.
+- Co-led the development team to drive the successful completion of Deloitte’s R&D Innovation Initiative Project — Survey Analysis Agent, a full-stack GenAI application leveraging multiple AI Agents built using the LangGraph Agentic AI framework.
+- Successfully contributed to multiple projects, demonstrating expertise as a  GenAI Engineer, Data Scientist, Data Engineer & Full Stack Developer.
+- Led the team and played a pivotal role in the implementation and enhancement of the Customer Purchase Prediction ML model.
+- Designed & implemented an automation solution for Exadata ingestion – significantly improved the overall process efficiency by more than 50%.
+- Achieved significant milestones playing a key role in the EDP 2.0 & EDW 2.0 initiatives, ingestion of OGG-based source systems and, development of end-to-end ETL & Orchestration pipelines, managing all the processes end-to-end.
 
-#### 🤖 [SocialCrew AI](#)
-> Autonomous social media automation platform powered by **CrewAI**, where AI Agents collaborate to research trends, personalize posts, and analyze performance.  
-> *Next.js · Node.js API Routes · Tailwind CSS · RAG.*
-
-#### 🌐 [TechNexus](#)
-> Full-stack social network for developers and innovators. Features role-based access control, live search, and dynamic content rendering.  
-> *Next.js · MongoDB · Node.js · Tailwind.*
-
-#### 🔊 [Sound Share (IEEE Published)](https://ieeexplore.ieee.org/document/9972172)
-> P2P file-sharing system over sound frequencies — published in **IEEE GCAT 2022**.  
-> *C++ · Python · Golang.*
+**CAST Software** — *FEB 2022 – AUG 2022*  
+*Full Stack Engineer Intern | ReactJS, Redux, Redux-Saga, REST API, JavaScript, Jenkins, Docker, Cypress, OGMA Graph visualizations*
+- Implemented many major features and enhancements for CAST Imaging, worked on all aspects of SDLC to ensure smooth release.
 
 ---
 
-### ⚙️ Technical Expertise  
+## Projects & Publications
 
-#### 💻 Programming  
-`Python` · `Java` · `C++` · `JavaScript` · `SQL` · `PySpark`
+- **Sound Share: P2P File-Sharing System** — *OCT 2021 – OCT 2022*  
+  IEEE Research Paper (document number 9972172) – Presented in the 3rd Global Conference for Advancement in Technology (GCAT).  
+  Web based application to enable users to share data files between devices using sound, with advanced efficiency and security of peer-to-peer file sharing. Developed using C++, Python and Golang.  
+  Paper: https://ieeexplore.ieee.org/document/9972172
 
-#### 🧠 AI & Data  
-`Agentic AI` · `LangGraph` · `LangChain` · `CrewAI` · `LLMs` · `RAG` · `Machine Learning` · `Deep Learning` · `Data Science` · `Data Engineering` · `Azure ML Studio`
+- **Survey Analysis Agent | Deloitte R&D Innovation Initiative Project** — *MAR 2025 – MAY 2025*  
+  A full-stack Generative AI application leveraging multiple AI Agents built using the LangGraph Agentic AI Framework. The backend, powered by Flask, integrates LangChain and RAG for intelligent reasoning and contextual retrieval. The system utilizes Vector Databases, Gemini LLM and Guardrails for high-performance, privacy-safe AI automation. The ReactJS frontend delivers an intuitive, responsive interface for insights.
 
-#### 🌐 Web & Systems  
-`Next.js` · `ReactJS` · `Node.js` · `Flask` · `REST APIs` · `Tailwind CSS` · `Redux` · `MongoDB`
+- **SocialCrew AI** — *OCT 2025 – PRESENT*  
+  A social media automation platform built on the CrewAI Agentic AI framework, where multiple AI Agents collaborate to research trends, recommend niche topics, customize social posts, analyze performance, and suggest optimizations in real time. Leveraging RAG for contextual grounding and personalized content creation. Built with Next.js (frontend), Node.js API routes (backend), and Tailwind CSS for a responsive UI.
 
-#### ☁️ Cloud & DevOps  
-`Azure` · `GCP` · `Docker` · `Kubernetes` · `Jenkins` · `Git` · `CI/CD Pipelines`
+- **TechNexus: Tech Social Network** — *OCT 2025 – PRESENT*  
+  A full-stack Next.js social platform for innovators and developers, enabling them to connect, showcase projects, and network in real time. The platform features dynamic content rendering, role-based access control, and API-powered real-time search, with Tailwind CSS for responsive, modern UI design, and Node.js with MongoDB ensuring secure, scalable, and efficient data management.
+
+- **Customer Purchase Prediction** — *JAN 2023 – MAR 2023*  
+  Web-based application for customer purchase prediction using Multiple Linear Regression, leveraging product categories and user demographics to help clients target potential buyers with personalized discounts. Built with Python, Hadoop, and Azure ML Studio.
 
 ---
 
-### 🏆 Certifications  
-- Deloitte AI Certified (Deloitte AI Academy)  
+## Skills
+
+- **Programming Languages & Databases:** C, C++, Java, Python, JavaScript, Advanced SQL, Hive, MongoDB  
+- **AI & Data:** Agentic AI, AI Agents, Generative AI, LangGraph, LangChain, CrewAI, Large Language Model (LLM), RAG (Retrieval-Augmented Generation), Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science, Data Engineering, Big Data, PySpark, Hadoop, Azure ML Studio, Guardrails and Vector Databases.  
+- **Web Development:** Next.js, ReactJS, Redux, Redux-saga, REST API, Tailwind CSS, Bootstrap, UI & UX, PHP, Cypress, HTML, CSS  
+- **Technical Competencies:** Advanced Algorithms, Data Structures, Problem Solving, Object-oriented Programming, SDLC  
+- **Cloud & DevOps:** Cloud Computing, Azure, Google Cloud, Oracle Cloud Infrastructure (OCI), Git, Jenkins, Docker, Kubernetes, Azure DevOps  
+- **Soft skills:** Effective Communication, Team Management, Leadership
+
+---
+
+## Certifications
+
+- Deloitte AI Certified by the Deloitte AI Academy  
+- IIT Roorkee Certified: Artificial Intelligence and Machine Learning  
 - Oracle Certified: Generative AI Professional  
-- IIT Roorkee: Artificial Intelligence and Machine Learning  
-- Microsoft Certified: Azure Data Scientist | Data Engineer | AI & Data Fundamentals
-- Microsoft Certified: Azure AI Fundamentals | Data Fundamentals | Azure Fundamentals
+- Microsoft Certified: Azure Data Scientist Associate, Azure Data Engineer Associate  
+- Microsoft Certified: Azure AI Fundamentals, Data Fundamentals, Azure Fundamentals  
 - Google Certified: Digital Cloud Leader
 
 ---
 
-### 🌐 Connect With Me  
+## Links
 
 <p align="center">
-  <a href="https://linkedin.com/in/mrinalsetty"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mrinalsetty2000@gmail.com"><img src="https://img.shields.io/badge/Email-mrinalsetty2000@gmail.com-red?logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/mrinalsetty"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/mrinalsetty" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/mrinalsetty" title="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=wgU5qAsAAAAJ" title="Google Scholar">
+    <img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar">
+  </a>
+  <a href="https://drive.google.com/file/d/1Lo5yKw0Uns0ajpXkIykLwLjOAMRjDs8_/view?usp=drive_link" title="Resume (PDF)">
+    <img src="https://img.shields.io/badge/-Resume-444?logo=readthedocs&logoColor=white" alt="Resume">
+  </a>
+  <a href="mailto:mrinalsetty2000@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/-Email-DB4437?logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
-
----
-
-✨ *Exploring the intersection of AI, systems design, and automation — building the future of intelligent software.*
