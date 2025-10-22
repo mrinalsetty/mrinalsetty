@@ -96,7 +96,7 @@ GenAI Engineer with a total work experience of about 3+ years. Spearheaded the D
   <tr>
     <td>
       <strong>Sound Share: P2P File-Sharing System</strong><br/>
-      IEEE Research Paper (<a href="https://ieeexplore.ieee.org/document/9972172">document number 9972172</a>) – Presented in the 3rd Global Conference for Advancement in Technology (GCAT).<br/>
+      IEEE Research Paper (document number <a href="https://ieeexplore.ieee.org/document/9972172">9972172</a>) – Presented in the 3rd Global Conference for Advancement in Technology (GCAT).<br/>
       Web based application to enable users to share data files between devices using sound, with advanced efficiency and security of peer-to-peer file sharing. Developed using C++, Python and Golang.
     </td>
     <td style="white-space:nowrap; text-align:right; vertical-align:top;"><em>OCT 2021 – OCT 2022</em></td>
