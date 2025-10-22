@@ -1,6 +1,5 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave" style="vertical-align:middle;margin-bottom:4px;"> 
-I’m Mrinal Srinath Setty
-
+## I’m Mrinal Srinath Setty
 GenAI Engineer with a total work experience of about 3+ years. Spearheaded the Development of full-stack GenAI applications as part of the Deloitte's Agentic AI Global Incubator. Co-led and contributed to the development of Deloitte's multiple R&D innovation initiatives involving full-stack Generative AI applications powered by multi-agent systems built using the Agentic AI Frameworks. Deeply passionate about AI and constantly exploring opportunities to work on projects and roles that push the boundaries of what intelligent systems can do.
 
 <p align="center">
