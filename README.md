@@ -3,7 +3,6 @@
 GenAI Engineer with a total work experience of about 3+ years. Spearheaded the Development of full-stack GenAI applications as part of the Deloitte's Agentic AI Global Incubator. Co-led and contributed to the development of Deloitte's multiple R&D innovation initiatives involving full-stack Generative AI applications powered by multi-agent systems built using the Agentic AI Frameworks. Deeply passionate about AI and constantly exploring opportunities to work on projects and roles that push the boundaries of what intelligent systems can do.
 
 <p align="center">
-  <!-- icon-only links (no visible email text) -->
   <a href="https://linkedin.com/in/mrinalsetty" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="24">
   </a>
@@ -31,14 +30,24 @@ GenAI Engineer with a total work experience of about 3+ years. Spearheaded the D
 
 <table>
   <tr>
-    <td><strong>Northeastern University, Khoury College of Computer Sciences</strong><br/>
-    Master of Science in Computer Science (Focus: Artificial Intelligence) — <em>Boston, MA</em></td>
-    <td align="right"><em>SEP 2025–PRESENT</em></td>
+    <td>
+      <strong>Northeastern University, Khoury College of Computer Sciences</strong><br/>
+      Master of Science in Computer Science (Focus: Artificial Intelligence)
+    </td>
+    <td style="white-space:nowrap; text-align:right; vertical-align:top;">
+      <em>SEP 2025–PRESENT</em><br/>
+      <em>Boston, MA</em>
+    </td>
   </tr>
   <tr>
-    <td><strong>The National Institute of Engineering</strong><br/>
-    Bachelor of Engineering in Computer Science and Engineering. CGPA: 8.75/10 (Distinction) — <em>Mysore, India</em></td>
-    <td align="right"><em>2018–2022</em></td>
+    <td>
+      <strong>The National Institute of Engineering</strong><br/>
+      Bachelor of Engineering in Computer Science and Engineering. CGPA: 8.75/10 (Distinction)
+    </td>
+    <td style="white-space:nowrap; text-align:right; vertical-align:top;">
+      <em>2018–2022</em><br/>
+      <em>Mysore, India</em>
+    </td>
   </tr>
 </table>
 
@@ -48,9 +57,13 @@ GenAI Engineer with a total work experience of about 3+ years. Spearheaded the D
 
 <table>
   <tr>
-    <td><strong>Deloitte USI</strong><br/>
-    <em>GenAI Engineer | Agentic AI, AI Agents, GenAI, LangGraph, LangChain, AI/ML, Python, ReactJS, JavaScript, LLM, Azure, Azure ML Studio</em></td>
-    <td align="right"><em>JAN 2023 – AUG 2025</em></td>
+    <td>
+      <strong>Deloitte USI</strong><br/>
+      <em>GenAI Engineer | Agentic AI, AI Agents, GenAI, LangGraph, LangChain, AI/ML, Python, ReactJS, JavaScript, LLM, Azure, Azure ML Studio</em>
+    </td>
+    <td style="white-space:nowrap; text-align:right; vertical-align:top;">
+      <em>JAN 2023 – AUG 2025</em>
+    </td>
   </tr>
 </table>
 
@@ -63,9 +76,13 @@ GenAI Engineer with a total work experience of about 3+ years. Spearheaded the D
 
 <table>
   <tr>
-    <td><strong>CAST Software</strong><br/>
-    <em>Full Stack Engineer Intern | ReactJS, Redux, Redux-Saga, REST API, JavaScript, Jenkins, Docker, Cypress, OGMA Graph visualizations</em></td>
-    <td align="right"><em>FEB 2022 – AUG 2022</em></td>
+    <td>
+      <strong>CAST Software</strong><br/>
+      <em>Full Stack Engineer Intern | ReactJS, Redux, Redux-Saga, REST API, JavaScript, Jenkins, Docker, Cypress, OGMA Graph visualizations</em>
+    </td>
+    <td style="white-space:nowrap; text-align:right; vertical-align:top;">
+      <em>FEB 2022 – AUG 2022</em>
+    </td>
   </tr>
 </table>
 
@@ -77,31 +94,44 @@ GenAI Engineer with a total work experience of about 3+ years. Spearheaded the D
 
 <table>
   <tr>
-    <td><strong>Sound Share: P2P File-Sharing System</strong><br/>
-    IEEE Research Paper (document number 9972172) – Presented in the 3rd Global Conference for Advancement in Technology (GCAT).<br/>
-    Web based application to enable users to share data files between devices using sound, with advanced efficiency and security of peer-to-peer file sharing. Developed using C++, Python and Golang.<br/>
-    <a href="https://ieeexplore.ieee.org/document/9972172">Paper</a></td>
-    <td align="right"><em>OCT 2021 – OCT 2022</em></td>
+    <td>
+      <strong>Sound Share: P2P File-Sharing System</strong><br/>
+      IEEE Research Paper (<a href="https://ieeexplore.ieee.org/document/9972172">document number 9972172</a>) – Presented in the 3rd Global Conference for Advancement in Technology (GCAT).<br/>
+      Web based application to enable users to share data files between devices using sound, with advanced efficiency and security of peer-to-peer file sharing. Developed using C++, Python and Golang.
+    </td>
+    <td style="white-space:nowrap; text-align:right; vertical-align:top;"><em>OCT 2021 – OCT 2022</em></td>
   </tr>
+
   <tr>
-    <td><strong>Survey Analysis Agent | Deloitte R&D Innovation Initiative Project</strong><br/>
-    A full-stack Generative AI application leveraging multiple AI Agents built using the LangGraph Agentic AI Framework. The backend, powered by Flask, integrates LangChain and RAG for intelligent reasoning and contextual retrieval. The system utilizes Vector Databases, Gemini LLM and Guardrails for high-performance, privacy-safe AI automation. The ReactJS frontend delivers an intuitive, responsive interface for insights.</td>
-    <td align="right"><em>MAR 2025 – MAY 2025</em></td>
+    <td>
+      <strong>Survey Analysis Agent | Deloitte R&D Innovation Initiative Project</strong><br/>
+      A full-stack Generative AI application leveraging multiple AI Agents built using the LangGraph Agentic AI Framework. The backend, powered by Flask, integrates LangChain and RAG for intelligent reasoning and contextual retrieval. The system utilizes Vector Databases, Gemini LLM and Guardrails for high-performance, privacy-safe AI automation. The ReactJS frontend delivers an intuitive, responsive interface for insights.
+    </td>
+    <td style="white-space:nowrap; text-align:right; vertical-align:top;"><em>MAR 2025 – MAY 2025</em></td>
   </tr>
+
   <tr>
-    <td><strong>SocialCrew AI</strong><br/>
-    A social media automation platform built on the CrewAI Agentic AI framework, where multiple AI Agents collaborate to research trends, recommend niche topics, customize social posts, analyze performance, and suggest optimizations in real time. Leveraging RAG for contextual grounding and personalized content creation. Built with Next.js (frontend), Node.js API routes (backend), and Tailwind CSS for a responsive UI.</td>
-    <td align="right"><em>OCT 2025 – PRESENT</em></td>
+    <td>
+      <strong>SocialCrew AI</strong><br/>
+      A social media automation platform built on the CrewAI Agentic AI framework, where multiple AI Agents collaborate to research trends, recommend niche topics, customize social posts, analyze performance, and suggest optimizations in real time. Leveraging RAG for contextual grounding and personalized content creation. Built with Next.js (frontend), Node.js API routes (backend), and Tailwind CSS for a responsive UI.
+    </td>
+    <td style="white-space:nowrap; text-align:right; vertical-align:top;"><em>OCT 2025 – PRESENT</em></td>
   </tr>
+
   <tr>
-    <td><strong>TechNexus: Tech Social Network</strong><br/>
-    A full-stack Next.js social platform for innovators and developers, enabling them to connect, showcase projects, and network in real time. The platform features dynamic content rendering, role-based access control, and API-powered real-time search, with Tailwind CSS for responsive, modern UI design, and Node.js with MongoDB ensuring secure, scalable, and efficient data management.</td>
-    <td align="right"><em>OCT 2025 – PRESENT</em></td>
+    <td>
+      <strong>TechNexus: Tech Social Network</strong><br/>
+      A full-stack Next.js social platform for innovators and developers, enabling them to connect, showcase projects, and network in real time. The platform features dynamic content rendering, role-based access control, and API-powered real-time search, with Tailwind CSS for responsive, modern UI design, and Node.js with MongoDB ensuring secure, scalable, and efficient data management.
+    </td>
+    <td style="white-space:nowrap; text-align:right; vertical-align:top;"><em>OCT 2025 – PRESENT</em></td>
   </tr>
+
   <tr>
-    <td><strong>Customer Purchase Prediction</strong><br/>
-    Web-based application for customer purchase prediction using Multiple Linear Regression, leveraging product categories and user demographics to help clients target potential buyers with personalized discounts. Built with Python, Hadoop, and Azure ML Studio.</td>
-    <td align="right"><em>JAN 2023 – MAR 2023</em></td>
+    <td>
+      <strong>Customer Purchase Prediction</strong><br/>
+      Web-based application for customer purchase prediction using Multiple Linear Regression, leveraging product categories and user demographics to help clients target potential buyers with personalized discounts. Built with Python, Hadoop, and Azure ML Studio.
+    </td>
+    <td style="white-space:nowrap; text-align:right; vertical-align:top;"><em>JAN 2023 – MAR 2023</em></td>
   </tr>
 </table>
 
