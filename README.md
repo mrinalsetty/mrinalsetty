@@ -4,12 +4,11 @@
 GenAI Engineer with a total work experience of about 3+ years. Spearheaded the Development of full-stack GenAI applications as part of the Deloitte's Agentic AI Global Incubator. Co-led and contributed to the development of Deloitte's multiple R&D innovation initiatives involving full-stack Generative AI applications powered by multi-agent systems built using the Agentic AI Frameworks. Deeply passionate about AI and constantly exploring opportunities to work on projects and roles that push the boundaries of what intelligent systems can do.
 
 <p align="center">
+  <a href="https://www.mrinalsetty.com" title="Portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-0A0A0A?logo=vercel&logoColor=white" height="24">
+  </a>
   <a href="https://linkedin.com/in/mrinalsetty" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="24">
-  </a>
-  &nbsp;
-  <a href="https://github.com/mrinalsetty" title="GitHub">
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="24">
   </a>
   &nbsp;
   <a href="https://scholar.google.com/citations?hl=en&user=wgU5qAsAAAAJ" title="Google Scholar">
