@@ -19,6 +19,9 @@ GenAI Engineer with a total work experience of about 3+ years. Spearheaded the D
   <a href="https://scholar.google.com/citations?hl=en&user=wgU5qAsAAAAJ" title="Google Scholar">
     <img src="https://img.shields.io/badge/-Google%20Scholar-000000?logo=google-scholar&logoColor=white" height="24">
   </a>
+  <a href="https://www.hackerrank.com/profile/mrinalsetty" title="HackerRank">
+    <img src="https://img.shields.io/badge/-HackerRank-000000?logo=hackerrank&logoColor=white" height="24">
+  </a>
   <a href="mailto:mrinalsetty2000@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/-Email-000000?logo=gmail&logoColor=white" height="24">
   </a>
@@ -28,11 +31,14 @@ GenAI Engineer with a total work experience of about 3+ years. Spearheaded the D
 
 ## 💼 Work Experience
 
+<!-- Deloitte Section -->
+<div style="border:1px solid #333; border-radius:12px; padding:16px; margin:12px 0;">
+
 <table>
   <tr>
     <td>
       <strong>Deloitte USI</strong><br/>
-      <em>GenAI Engineer | Agentic AI, AI Agents, GenAI, LangGraph, LangChain, AI/ML, Python, ReactJS, JavaScript, LLM, Azure, Azure ML Studio</em>
+      <em>GenAI Engineer</em>
     </td>
     <td style="white-space:nowrap; text-align:right; vertical-align:top;">
       <em>JAN 2023 – AUG 2025</em>
@@ -40,18 +46,31 @@ GenAI Engineer with a total work experience of about 3+ years. Spearheaded the D
   </tr>
 </table>
 
-- Spearheaded the Development of full-stack GenAI applications as part of Deloitte’s Agentic AI Global Incubator.  
-- Co-led the development team to drive the successful completion of Deloitte’s R&D Innovation Initiative Project — Survey Analysis Agent, a full-stack GenAI application leveraging multiple AI Agents built using the LangGraph Agentic AI framework.  
-- Successfully contributed to multiple projects, demonstrating expertise as a  GenAI Engineer, Data Scientist, Data Engineer & Full Stack Developer.  
-- Led the team and played a pivotal role in the implementation and enhancement of the Customer Purchase Prediction ML model.  
-- Designed & implemented an automation solution for Exadata ingestion – significantly improved the overall process efficiency by more than 50%.  
-- Achieved significant milestones playing a key role in the EDP 2.0 & EDW 2.0 initiatives, ingestion of OGG-based source systems and, development of end-to-end ETL & Orchestration pipelines, managing all the processes end-to-end.  
+<p>
+<code>Agentic AI</code> <code>AI Agents</code> <code>GenAI</code> <code>LangGraph</code> <code>LangChain</code> 
+<code>AI/ML</code> <code>Python</code> <code>ReactJS</code> <code>JavaScript</code> <code>LLM</code> 
+<code>Azure</code> <code>Azure ML Studio</code>
+</p>
+
+<ul>
+  <li>Spearheaded the development of full-stack GenAI applications as part of Deloitte’s Agentic AI Global Incubator.</li>
+  <li>Co-led the development of Deloitte’s R&D Innovation Initiative Project — <em>Survey Analysis Agent</em>, leveraging multiple AI Agents using the LangGraph Agentic AI framework.</li>
+  <li>Contributed to enterprise AI and data engineering projects as a GenAI Engineer, Data Scientist, and Full-Stack Developer.</li>
+  <li>Led design and deployment of the Customer Purchase Prediction ML model, improving data-driven business insights.</li>
+  <li>Developed automation for Exadata ingestion — improving process efficiency by 50%+.</li>
+  <li>Key contributor to EDP 2.0 & EDW 2.0 initiatives, including OGG-based data ingestion and full ETL & orchestration pipeline development.</li>
+</ul>
+
+</div>
+
+<!-- CAST Section -->
+<div style="border:1px solid #333; border-radius:12px; padding:16px; margin:12px 0;">
 
 <table>
   <tr>
     <td>
       <strong>CAST Software</strong><br/>
-      <em>Full Stack Engineer Intern | ReactJS, Redux, Redux-Saga, REST API, JavaScript, Jenkins, Docker, Cypress, OGMA Graph visualizations</em>
+      <em>Full Stack Engineer Intern</em>
     </td>
     <td style="white-space:nowrap; text-align:right; vertical-align:top;">
       <em>FEB 2022 – AUG 2022</em>
@@ -59,7 +78,19 @@ GenAI Engineer with a total work experience of about 3+ years. Spearheaded the D
   </tr>
 </table>
 
-- Implemented many major features and enhancements for CAST Imaging, worked on all aspects of SDLC to ensure smooth release.
+<p>
+<code>ReactJS</code> <code>Redux</code> <code>Redux-Saga</code> <code>REST API</code> 
+<code>JavaScript</code> <code>Jenkins</code> <code>Docker</code> 
+<code>Cypress</code> <code>OGMA Graph Visualizations</code>
+</p>
+
+<ul>
+  <li>Implemented major features and performance optimizations for CAST Imaging, enhancing visualization and user experience.</li>
+  <li>Contributed to frontend, backend, and CI/CD workflows, ensuring efficient SDLC and seamless release cycles.</li>
+</ul>
+
+</div>
+
 
 ---
 
