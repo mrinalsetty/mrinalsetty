@@ -161,7 +161,7 @@ GenAI Engineer with a total work experience of about 3+ years. Spearheaded the D
       Master of Science in Computer Science (Focus: Artificial Intelligence)
     </td>
     <td style="white-space:nowrap; text-align:right; vertical-align:top;">
-      <em>SEP 2025–PRESENT</em><br/>
+      <em>SEP 2025–MAY 2027</em><br/>
       <em>Boston, MA</em>
     </td>
   </tr>
