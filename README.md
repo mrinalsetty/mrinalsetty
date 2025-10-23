@@ -5,23 +5,23 @@ GenAI Engineer with a total work experience of about 3+ years. Spearheaded the D
 
 <p align="center">
   <a href="https://www.mrinalsetty.com" title="Portfolio">
-    <img src="https://img.shields.io/badge/-Portfolio-0A66C2?logo=vercel&logoColor=white" height="24">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white" height="24">
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/mrinalsetty" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="24">
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&logoColor=white" height="24">
   </a>
   &nbsp;
   <a href="mailto:mrinalsetty2000@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/-Email-0A66C2?logo=gmail&logoColor=white" height="24">
+    <img src="https://img.shields.io/badge/-Email-000000?logo=gmail&logoColor=white" height="24">
   </a>
   &nbsp;
   <a href="https://drive.google.com/file/d/1Lo5yKw0Uns0ajpXkIykLwLjOAMRjDs8_/view?usp=drive_link" title="Resume (PDF)">
-    <img src="https://img.shields.io/badge/-Resume-0A66C2?logo=readthedocs&logoColor=white" height="24">
+    <img src="https://img.shields.io/badge/-Resume-000000?logo=readthedocs&logoColor=white" height="24">
   </a>
   &nbsp;
   <a href="https://scholar.google.com/citations?hl=en&user=wgU5qAsAAAAJ" title="Google Scholar">
-    <img src="https://img.shields.io/badge/-Google%20Scholar-0A66C2?logo=google-scholar&logoColor=white" height="24">
+    <img src="https://img.shields.io/badge/-Google%20Scholar-000000?logo=google-scholar&logoColor=white" height="24">
   </a>
 </p>
 
