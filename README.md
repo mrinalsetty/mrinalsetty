@@ -7,54 +7,26 @@ GenAI Engineer with a total work experience of about 3+ years. Spearheaded the D
   <a href="https://www.mrinalsetty.com" title="Portfolio">
     <img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white" height="24">
   </a>
-  &nbsp;
   <a href="https://linkedin.com/in/mrinalsetty" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&logoColor=white" height="24">
   </a>
-  &nbsp;
-  <a href="mailto:mrinalsetty2000@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/-Email-000000?logo=gmail&logoColor=white" height="24">
-  </a>
-  &nbsp;
   <a href="https://drive.google.com/file/d/1Lo5yKw0Uns0ajpXkIykLwLjOAMRjDs8_/view?usp=drive_link" title="Resume (PDF)">
     <img src="https://img.shields.io/badge/-Resume-000000?logo=readthedocs&logoColor=white" height="24">
   </a>
-  &nbsp;
+  <a href="https://ieeexplore.ieee.org/document/9972172" title="IEEE Research Paper">
+    <img src="https://img.shields.io/badge/-IEEE-000000?logo=ieee&logoColor=white" height="24">
+  </a>
   <a href="https://scholar.google.com/citations?hl=en&user=wgU5qAsAAAAJ" title="Google Scholar">
     <img src="https://img.shields.io/badge/-Google%20Scholar-000000?logo=google-scholar&logoColor=white" height="24">
+  </a>
+  <a href="mailto:mrinalsetty2000@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/-Email-000000?logo=gmail&logoColor=white" height="24">
   </a>
 </p>
 
 ---
 
-## Education
-
-<table>
-  <tr>
-    <td>
-      <strong>Northeastern University, Khoury College of Computer Sciences</strong><br/>
-      Master of Science in Computer Science (Focus: Artificial Intelligence)
-    </td>
-    <td style="white-space:nowrap; text-align:right; vertical-align:top;">
-      <em>SEP 2025–PRESENT</em><br/>
-      <em>Boston, MA</em>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>The National Institute of Engineering</strong><br/>
-      Bachelor of Engineering in Computer Science and Engineering. CGPA: 8.75/10 (Distinction)
-    </td>
-    <td style="white-space:nowrap; text-align:right; vertical-align:top;">
-      <em>2018–2022</em><br/>
-      <em>Mysore, India</em>
-    </td>
-  </tr>
-</table>
-
----
-
-## Work Experience
+## 💼 Work Experience
 
 <table>
   <tr>
@@ -91,7 +63,7 @@ GenAI Engineer with a total work experience of about 3+ years. Spearheaded the D
 
 ---
 
-## Projects & Publications
+## 🚀 Projects & Publications
 
 <table>
   <tr>
@@ -138,7 +110,45 @@ GenAI Engineer with a total work experience of about 3+ years. Spearheaded the D
 
 ---
 
-## Skills
+## 🏆 Achievements
+
+- **Deloitte USI:** Received *Spot Award* for contributions toward the successful scaling and delivery of the **EDP 2.0 Initiative**  
+- **Deloitte USI:** Earned *Industry Proficiency Bronze Badge ×3*  
+- Completed **3000+ Client Service Hours** at Deloitte  
+- Achieved **HackerRank C++ Gold Badge (5 Stars)**  
+- Cleared **JEE Mains** and *Qualified for JEE Advanced*  
+- **Distinction Holder** – CBSE Class 10 Topper  
+
+---
+
+## 🎓 Education
+
+<table>
+  <tr>
+    <td>
+      <strong>Northeastern University, Khoury College of Computer Sciences</strong><br/>
+      Master of Science in Computer Science (Focus: Artificial Intelligence)
+    </td>
+    <td style="white-space:nowrap; text-align:right; vertical-align:top;">
+      <em>SEP 2025–PRESENT</em><br/>
+      <em>Boston, MA</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>The National Institute of Engineering</strong><br/>
+      Bachelor of Engineering in Computer Science and Engineering. CGPA: 8.75/10 (Distinction)
+    </td>
+    <td style="white-space:nowrap; text-align:right; vertical-align:top;">
+      <em>2018–2022</em><br/>
+      <em>Mysore, India</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💡 Skills
 
 - **Programming Languages & Databases:** C, C++, Java, Python, JavaScript, Advanced SQL, Hive, MongoDB  
 - **AI & Data:** Agentic AI, AI Agents, Generative AI, LangGraph, LangChain, CrewAI, Large Language Model (LLM), RAG (Retrieval-Augmented Generation), Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Science, Data Engineering, Big Data, PySpark, Hadoop, Azure ML Studio, Guardrails and Vector Databases.  
@@ -149,7 +159,7 @@ GenAI Engineer with a total work experience of about 3+ years. Spearheaded the D
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 - Deloitte AI Certified by the Deloitte AI Academy  
 - IIT Roorkee Certified: Artificial Intelligence and Machine Learning  
