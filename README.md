@@ -146,7 +146,7 @@ GenAI Engineer with a total work experience of about 3+ years. Spearheaded the D
 - **Deloitte USI:** Received *Spot Award* for contributions toward the successful scaling and delivery of the **EDP 2.0 Initiative**  
 - **Deloitte USI:** Earned *Industry Proficiency Bronze Badge ×3*  
 - Completed **3000+ Client Service Hours** at Deloitte  
-- Achieved **HackerRank C++ Gold Badge (5 Stars)**  
+- Earned **HackerRank C++ Gold Badge (5 Stars)**  
 - Cleared **JEE Mains** and *Qualified for JEE Advanced*  
 - **Distinction Holder** – CBSE Class 10 Topper  
 
