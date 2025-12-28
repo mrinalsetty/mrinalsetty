@@ -19,6 +19,9 @@ GenAI Engineer with a total work experience of about 3+ years. Spearheaded the D
   <a href="https://scholar.google.com/citations?hl=en&user=wgU5qAsAAAAJ" title="Google Scholar">
     <img src="https://img.shields.io/badge/-Google%20Scholar-000000?logo=google-scholar&logoColor=white" height="24">
   </a>
+  <a href="https://leetcode.com/u/MrinalSetty/" title="LeetCode">
+    <img src="https://img.shields.io/badge/-LeetCode-000000?logo=leetcode&logoColor=white" height="24">
+  </a>
   <a href="https://www.hackerrank.com/profile/mrinalsetty" title="HackerRank">
     <img src="https://img.shields.io/badge/-HackerRank-000000?logo=hackerrank&logoColor=white" height="24">
   </a>
